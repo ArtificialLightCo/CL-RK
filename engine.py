@@ -1,1 +1,0 @@
-# Placeholder for clark_engine/engine.py
