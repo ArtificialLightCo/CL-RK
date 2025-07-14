@@ -1,1 +1,0 @@
-// Handles global cart and Stripe actions
